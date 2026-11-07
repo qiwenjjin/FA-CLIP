@@ -2,7 +2,7 @@
 
 Fine-Grained Aligned CLIP for Zero-Shot Anomaly Detection.
 
-Partial source for the TCSVT response letter: implementation details that the letter
+Partial source for the IEEE TCSVT response letter: implementation details that the letter
 points to GitHub for (batch size, prompt templates, cache / ITE / ODA settings,
 frozen inference). Encoders, datasets, and end-to-end scripts are omitted.
 
