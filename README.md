@@ -9,7 +9,8 @@ frozen inference). Encoders, datasets, and end-to-end scripts are omitted.
 ## Layout
 
 ```
-train.py                 # CLI defaults aligned with the manuscript
+train.py               # CLI defaults aligned with the manuscript
+
 prompts.py             # Literal normal/abnormal prompt templates
 oda.py                 # ODALoss (Sec. III-C)
 cache.py               # MemoryCache (ITE text) + ImageMemoryCache
